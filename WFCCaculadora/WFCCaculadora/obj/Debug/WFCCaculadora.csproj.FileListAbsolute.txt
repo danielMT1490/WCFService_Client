@@ -1,0 +1,7 @@
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\bin\Debug\WFCCaculadora.dll.config
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\bin\Debug\WFCCaculadora.dll
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\bin\Debug\WFCCaculadora.pdb
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\obj\Debug\WFCCaculadora.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\obj\Debug\WFCCaculadora.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\obj\Debug\WFCCaculadora.dll
+C:\Users\Daniel Madrigal\Desktop\Proyectos\WFCCaculadora\WFCCaculadora\obj\Debug\WFCCaculadora.pdb
